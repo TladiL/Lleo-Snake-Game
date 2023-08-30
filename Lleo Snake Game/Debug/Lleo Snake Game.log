@@ -1,0 +1,7 @@
+﻿  GameOverState.cpp
+C:\Users\Lleo Lebohang Tladi\source\repos\Lleo Snake Game\Lleo Snake Game\GameOverState.cpp(27,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lleo Lebohang Tladi\source\repos\Lleo Snake Game\Lleo Snake Game\GameOverState.cpp(30,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameState.cpp
+  MainMenuState.cpp
+  Generating Code...
+  Lleo Snake Game.vcxproj -> C:\Users\Lleo Lebohang Tladi\source\repos\Lleo Snake Game\Debug\Lleo Snake Game.exe
